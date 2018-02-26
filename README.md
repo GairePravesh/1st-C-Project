@@ -1,4 +1,5 @@
-# 1st-C-Project
+Brick Breaker Game implemented in C
 
-This was my first project.
-I used C and graphic.h to make a famous game brick breaker.
+1st Sem C Project
+
+For more deailed information open the report file pdf. 
